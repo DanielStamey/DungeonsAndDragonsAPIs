@@ -1,0 +1,14 @@
+C:\Daniel\My Stuff\Home\D&D\MyProgram\DungeonsAndDragonsAPI\DungeonsAndDragonsAPI\bin\Debug\netcoreapp2.1\DungeonsAndDragonsAPI.deps.json
+C:\Daniel\My Stuff\Home\D&D\MyProgram\DungeonsAndDragonsAPI\DungeonsAndDragonsAPI\bin\Debug\netcoreapp2.1\DungeonsAndDragonsAPI.runtimeconfig.json
+C:\Daniel\My Stuff\Home\D&D\MyProgram\DungeonsAndDragonsAPI\DungeonsAndDragonsAPI\bin\Debug\netcoreapp2.1\DungeonsAndDragonsAPI.runtimeconfig.dev.json
+C:\Daniel\My Stuff\Home\D&D\MyProgram\DungeonsAndDragonsAPI\DungeonsAndDragonsAPI\bin\Debug\netcoreapp2.1\DungeonsAndDragonsAPI.dll
+C:\Daniel\My Stuff\Home\D&D\MyProgram\DungeonsAndDragonsAPI\DungeonsAndDragonsAPI\bin\Debug\netcoreapp2.1\DungeonsAndDragonsAPI.pdb
+C:\Daniel\My Stuff\Home\D&D\MyProgram\DungeonsAndDragonsAPI\DungeonsAndDragonsAPI\obj\Debug\netcoreapp2.1\DungeonsAndDragonsAPI.csprojAssemblyReference.cache
+C:\Daniel\My Stuff\Home\D&D\MyProgram\DungeonsAndDragonsAPI\DungeonsAndDragonsAPI\obj\Debug\netcoreapp2.1\DungeonsAndDragonsAPI.csproj.CoreCompileInputs.cache
+C:\Daniel\My Stuff\Home\D&D\MyProgram\DungeonsAndDragonsAPI\DungeonsAndDragonsAPI\obj\Debug\netcoreapp2.1\DungeonsAndDragonsAPI.RazorAssemblyInfo.cache
+C:\Daniel\My Stuff\Home\D&D\MyProgram\DungeonsAndDragonsAPI\DungeonsAndDragonsAPI\obj\Debug\netcoreapp2.1\DungeonsAndDragonsAPI.RazorAssemblyInfo.cs
+C:\Daniel\My Stuff\Home\D&D\MyProgram\DungeonsAndDragonsAPI\DungeonsAndDragonsAPI\obj\Debug\netcoreapp2.1\DungeonsAndDragonsAPI.AssemblyInfoInputs.cache
+C:\Daniel\My Stuff\Home\D&D\MyProgram\DungeonsAndDragonsAPI\DungeonsAndDragonsAPI\obj\Debug\netcoreapp2.1\DungeonsAndDragonsAPI.AssemblyInfo.cs
+C:\Daniel\My Stuff\Home\D&D\MyProgram\DungeonsAndDragonsAPI\DungeonsAndDragonsAPI\obj\Debug\netcoreapp2.1\DungeonsAndDragonsAPI.RazorTargetAssemblyInfo.cache
+C:\Daniel\My Stuff\Home\D&D\MyProgram\DungeonsAndDragonsAPI\DungeonsAndDragonsAPI\obj\Debug\netcoreapp2.1\DungeonsAndDragonsAPI.dll
+C:\Daniel\My Stuff\Home\D&D\MyProgram\DungeonsAndDragonsAPI\DungeonsAndDragonsAPI\obj\Debug\netcoreapp2.1\DungeonsAndDragonsAPI.pdb
